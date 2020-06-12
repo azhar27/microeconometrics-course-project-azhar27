@@ -1,5 +1,5 @@
-os: 
--macOS
+os: osx
+
 language: python
 
 python:
