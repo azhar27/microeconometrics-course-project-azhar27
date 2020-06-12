@@ -1,3 +1,5 @@
+os: 
+macOS
 language: python
 
 python:
